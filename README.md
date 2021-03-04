@@ -1,3 +1,10 @@
+## Date
+3/1/2121
+## Project Name: 
+Tamagotchi
+
+## Project Overview:
+Card that include buttons that make a number add or subtract to the total bar in each quadrant.
 ## User Story:
 user can click Tamagotchi's buttons to feed, play, nap, and energize Tamagotchi. Buttons 
 clicked should add or subtract from total number.
