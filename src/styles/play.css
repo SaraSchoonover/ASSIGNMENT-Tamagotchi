@@ -1,0 +1,8 @@
+#play { 
+  position: absolute; 
+  top: 0; 
+  left: 50%; 
+  right: 0; 
+  bottom: 50%; 
+  background: rgb(172, 172, 224); border:solid #000; border-width: 0 0 10px 0; 
+ }

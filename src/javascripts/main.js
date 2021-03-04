@@ -1,8 +1,16 @@
 import '../styles/main.scss';
+import eatCardBuilder from './components/eat';
+import fightCardBuilder from './components/fight';
+import playCardBuilder from './components/play';
+import sleepCardBuilder from './components/sleep';
+import handleButtonClick from './helpers/data/buttonEvents';
 
 const init = () => {
-  $('#app').html('<h1>HELLO! You are up and running!</h1>');
-  console.log('YOU ARE UP AND RUNNING!');
+  eatCardBuilder();
+  fightCardBuilder();
+  playCardBuilder();
+  sleepCardBuilder();
+  handleButtonClick();
 };
 
 init();
