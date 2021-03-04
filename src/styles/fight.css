@@ -1,0 +1,8 @@
+#fight { 
+  position: absolute; 
+  top: 50%; 
+  left: 0; 
+  right: 50%; 
+  bottom: 0; 
+  background: rgb(230, 230, 171); border:solid #000; border-width: 0 10px 0 0; 
+ }

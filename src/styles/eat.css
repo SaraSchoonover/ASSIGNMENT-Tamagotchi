@@ -1,0 +1,14 @@
+#eat {
+  position: absolute; 
+     top: 0; 
+     left: 0; 
+     right: 50%; 
+     bottom: 50%; 
+     background: rgb(226, 152, 152); border:solid #000; border-width: 0 10px 10px 0; 
+   }
+
+   .card-image {
+    background-size: cover;
+    background-position: center;
+    opacity: .4;
+   }
